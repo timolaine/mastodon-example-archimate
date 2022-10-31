@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toots"
+    id="id-d3ad1bcfada942eaa27e65d8caa2a649">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9ffde2be80b346fe8eb1de2a30986c96.xml#id-9ffde2be80b346fe8eb1de2a30986c96"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ad3d64b6890c4ad98788d2961de78a17.xml#id-ad3d64b6890c4ad98788d2961de78a17"/>
+</archimate:FlowRelationship>
